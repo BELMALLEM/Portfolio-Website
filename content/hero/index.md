@@ -1,10 +1,10 @@
 ---
 title: 'Hello, my name is'
-name: 'Chandrika Deb'
+name: 'Marouane BELMALLEM'
 subtitle: 'I love exploring new things!'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Software Engineering Associate at Amdocs, India. Primarily interested in Front-end Development and Deep Learning.
+I'm a Data Scientist with good knowledge of Computer Science, from Morocco. Primarily interested in Coding and Deep Learning.
 
-I enjoy writing tech blogs and also helping every tech beginner I come across!
+I enjoy solving problems even if sometimes I get frustrated and also let my passion and creativity lead me!

@@ -2,18 +2,16 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Tech Blogging
-  - Pencil Sketch
-  - Kathak Dance
+  - Reading Books
+  - Making new connections
+  - Drawing
   - Public Speaking
   - Team Management
-  - Mentoring
+  - Watching Anime
 ---
 
-Hello! I'm Chandrika Deb, from Jamshedpur, also known as Pittsburgh of India.
+Hello! I'm Marouane BELMALLEM, from Casablanca, also known as the Heart of Morocco.
 
-A Software Engineering Associate in the Revenue Management (RM) team at [Amdocs](https://www.amdocs.com/), India.
-
-I have completed my Bachelors from [BIT Mesra](https://www.bitmesra.ac.in/) in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+A Computer Science Student at [Hassania School of Public Works - EHTP](http://www.ehtp.ac.ma/), one of the Top Three schools in Morocco.
 
 Here are a few of the other activities that I love to do!

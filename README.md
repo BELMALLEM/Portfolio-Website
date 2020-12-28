@@ -14,7 +14,7 @@
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com), this website it was all designed and developed by her, so it will harsh if you keep all the credit for yourself. Thanks! :)
+Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com), this website it was all designed and developed by her, so it will be harsh if you keep all the credit for yourself. Thanks! :)
 
 ## 🛠 Installation & Set Up
 

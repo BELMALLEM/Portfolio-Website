@@ -3,7 +3,7 @@ date: '3'
 title: 'Best lands to buy in Casablanca'
 cover: 'Resulted Map.PNG'
 github: 'https://github.com/BELMALLEM/Best-Lands-to-buy-in-Casablanca'
-#external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
+external: ''
 tech:
   - Pandas
   - Numpy

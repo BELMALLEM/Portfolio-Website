@@ -1,5 +1,5 @@
 ---
-date: '2020-04-26'
+date: '2019-04-26'
 title: 'TEDx Organizer'
 company: 'Rotaract EHTP'
 location: 'Casablanca'

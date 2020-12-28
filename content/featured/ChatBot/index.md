@@ -3,7 +3,7 @@ date: '2'
 title: 'ChatBot that tells the News'
 cover: 'Bot.jpg'
 github: 'https://github.com/BELMALLEM/ChatBot'
-#external: 'https://twitter.com/girlscript_bot'
+external: ''
 tech:
   - Python
   - APIs

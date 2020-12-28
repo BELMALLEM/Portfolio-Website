@@ -7,7 +7,7 @@ skills:
   - Drawing
   - Public Speaking
   - Team Management
-  - Watching Anime
+  - Play Chess
 ---
 
 Hello! I'm Marouane BELMALLEM, from Casablanca, also known as the Heart of Morocco.

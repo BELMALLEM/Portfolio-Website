@@ -1,5 +1,5 @@
 ---
-date: '2020-04-13'
+date: '2020-05-05'
 title: 'Go-Game'
 github: 'https://github.com/BELMALLEM/Go-Game'
 external: ''

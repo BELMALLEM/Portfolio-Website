@@ -1,14 +1,14 @@
 module.exports = {
-  siteTitle: 'Marouane Bel. | Data Scientist',
+  siteTitle: 'BELMALLEM Marouane | Data Scientist',
   siteDescription:
-    'Marouane BELMALLEM is an ambitious Data Scientis, from Morocco, who loves solving problems!',
+    'BELMALLEM Marouane is an ambitious Data Scientis, from Morocco, who loves solving problems!',
   siteKeywords:
-    'Marouane BELMALLEM, Marouane, BELMALLEM, BELMALLEM, Data Scientist, Computer Science, Python, Machine Learning, Casablanca, amdocs, bit, ML, Morocco',
+    'BELMALLEM Marouane, Marouane, BELMALLEM, BELMALLEM, Data Scientist, Computer Science, Python, Machine Learning, Casablanca, amdocs, bit, ML, Morocco',
   siteUrl: 'https://belmallem.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
-  name: 'Marouane BELMALLEM',
+  name: 'BELMALLEM Marouane',
   location: 'Casablanca, Morocco',
   email: 'marouane.belmallem@gmail.com',
   github: 'https://github.com/BELMALLEM',

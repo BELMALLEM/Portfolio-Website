@@ -1,6 +1,6 @@
 ---
 date: '2019-11-12'
-title: 'C-Pascal Compiler
+title: 'C-Pascal Compiler'
 github: 'https://github.com/BELMALLEM/C-Pascal-Compiler'
 external: ''
 tech:

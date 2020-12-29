@@ -6,7 +6,7 @@ module.exports = {
     'BELMALLEM Marouane, Marouane, BELMALLEM, BELMALLEM, Data Scientist, Computer Science, Python, Machine Learning, Casablanca, amdocs, bit, ML, Morocco',
   siteUrl: 'https://belmallem.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: '',
+  googleAnalyticsID: 'G-YG9YDE27Z2',
   googleVerification: '',
   name: 'BELMALLEM Marouane',
   location: 'Casablanca, Morocco',

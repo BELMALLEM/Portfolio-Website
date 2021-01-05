@@ -25,7 +25,7 @@ import msIcon144x144 from '@images/favicons/ms-icon-144x144.png';
 
 
 
-const Head = ({ title, description, image }) => {
+const Head = ({ metadata }) => {
   const { pathname } = useLocation();
 
   const { site } = useStaticQuery(
@@ -33,10 +33,10 @@ const Head = ({ title, description, image }) => {
       query {
         site {
           siteMetadata {
-            defaultTitle: title
-            defaultDescription: description
-            siteUrl
-            defaultImage: image
+            defaultTitle: metadata.title
+            defaultDescription: metadata.description
+            siteUrl: metadata.siteUrl
+            defaultImage: metadata.image
             twitterUsername
           }
         }

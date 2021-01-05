@@ -52,7 +52,7 @@ const Head = ({ metadata }) => (
 
     <meta itemProp="name" content={metadata.title} />
     <meta itemProp="description" content={metadata.description} />
-    <meta itemProp="image" content={`${config.siteUrl}${ogImage}`} />
+    <meta itemProp="image" content="https://github.com/BELMALLEM/Portfolio-Website/blob/code/src/images/demo.png" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:url" content={metadata.siteUrl} />
@@ -60,7 +60,7 @@ const Head = ({ metadata }) => (
     <meta name="twitter:creator" content={config.twitterHandle} />
     <meta name="twitter:title" content={metadata.title} />
     <meta name="twitter:description" content={metadata.description} />
-    <meta name="twitter:image" content={`${config.siteUrl}${ogImage}`} />
+    <meta name="twitter:image" content="https://github.com/BELMALLEM/Portfolio-Website/blob/code/src/images/demo.png" />
     <meta name="twitter:image:alt" content={metadata.title} />
 
     <link rel="apple-touch-icon" sizes="57x57" href={appleIcon57x57} />

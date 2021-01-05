@@ -25,58 +25,43 @@ import msIcon144x144 from '@images/favicons/ms-icon-144x144.png';
 
 
 
-const Head = ({ metadata }) => {
-  const { pathname } = useLocation();
+const Head = ({ metadata }) => (
+  <Helmet>
+    <html lang="en" prefix="og: http://ogp.me/ns#" />
+    <title itemProp="name" lang="en">
+      {metadata.title}
+    </title>
+    <link rel="shortcut icon" href={favicon} />
+    <link rel="canonical" href="https://brittanychiang.com" />
 
-  const { site } = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            defaultTitle: metadata.title
-            defaultDescription: metadata.description
-            siteUrl: metadata.siteUrl
-            defaultImage: metadata.image
-            twitterUsername
-          }
-        }
-      }
-    `,
-  );
+  
+    <meta name="description" content={metadata.description} />
+    <meta name="keywords" content={config.siteKeywords} />
+    <meta name="google-site-verification" content={config.googleVerification} />
+   
+    <meta property="og:title" content={metadata.title} />
+    <meta property="og:description" content={metadata.description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={metadata.siteUrl} />
+    <meta property="og:site_name" content={metadata.title} />
+    <meta property="og:image" content="https://github.com/BELMALLEM/Portfolio-Website/blob/code/src/images/demo.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:locale" content={config.siteLanguage} />
 
-  const {
-    defaultTitle,
-    defaultDescription,
-    siteUrl,
-    defaultImage,
-    twitterUsername,
-  } = site.siteMetadata;
+    <meta itemProp="name" content={metadata.title} />
+    <meta itemProp="description" content={metadata.description} />
+    <meta itemProp="image" content="https://github.com/BELMALLEM/Portfolio-Website/blob/code/src/images/demo.png" />
 
-  const seo = {
-    title: title || defaultTitle,
-    description: description || defaultDescription,
-    image: `${siteUrl}${image || defaultImage}`,
-    url: `${siteUrl}${pathname}`,
-  };
-
-  return (
-    <Helmet title={title} defaultTitle={seo.title} titleTemplate={`%s | ${defaultTitle}`}>
-      <html lang="en" />
-
-      <meta name="description" content={seo.description} />
-      <meta name="image" content={seo.image} />
-
-      <meta property="og:title" content={seo.title} />
-      <meta property="og:description" content={seo.description} />
-      <meta property="og:image" content={seo.image} />
-      <meta property="og:url" content={seo.url} />
-      <meta property="og:type" content="website" />
-
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:creator" content={twitterUsername} />
-      <meta name="twitter:title" content={seo.title} />
-      <meta name="twitter:description" content={seo.description} />
-      <meta name="twitter:image" content={seo.image} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content={metadata.siteUrl} />
+    <meta name="twitter:site" content={config.twitterHandle} />
+    <meta name="twitter:creator" content={config.twitterHandle} />
+    <meta name="twitter:title" content={metadata.title} />
+    <meta name="twitter:description" content={metadata.description} />
+    <meta name="twitter:image" content="https://github.com/BELMALLEM/Portfolio-Website/blob/code/src/images/demo.png" />
+    <meta name="twitter:image:alt" content={metadata.title} />
 
     <link rel="apple-touch-icon" sizes="57x57" href={appleIcon57x57} />
     <link rel="apple-touch-icon" sizes="60x60" href={appleIcon60x60} />

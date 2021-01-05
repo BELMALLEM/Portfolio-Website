@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://github.com/BELMALLEM/belmallem.github.io/blob/code/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Portfolio Website V1
+  <a href="https://belmallem.netlify.app/">Portfolio Website V1</a>
 </h1>
 <p align="center">
   My first iteration of <a href="https://belmallem.netlify.app/" target="_blank">belmallem.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://app.netlify.com/" target="_blank">Netlify</a>

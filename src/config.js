@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'BELMALLEM Marouane | Data Scientist',
+  siteTitle: 'BELMALLEM Marouane | Software Engineer',
   siteDescription:
-    'BELMALLEM Marouane is an ambitious Data Scientis, from Morocco, who loves solving problems!',
+    'BELMALLEM Marouane is an ambitious Software Engineer, from Morocco, who loves solving problems!',
   siteKeywords:
-    'BELMALLEM Marouane, Marouane, BELMALLEM, BELMALLEM, Data Scientist, Computer Science, Python, Machine Learning, Casablanca, amdocs, bit, ML, Morocco',
+    'BELMALLEM Marouane, Marouane, BELMALLEM, BELMALLEM, Software Engineer, Computer Science, Java, Spring Framework, javascript, react.js, angular, Casablanca, amdocs, bit, ML, Morocco',
   siteUrl: 'https://belmallem.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-YG9YDE27Z2',
@@ -16,7 +16,7 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://belmallem.github.io/',
+      url: 'https://github.com/BELMALLEM',
     },
     {
       name: 'Linkedin',

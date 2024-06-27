@@ -4,7 +4,7 @@ module.exports = {
     'BELMALLEM Marouane is an ambitious Software Engineer, from Morocco, who loves solving problems!',
   siteKeywords:
     'BELMALLEM Marouane, Marouane, BELMALLEM, BELMALLEM, Software Engineer, Computer Science, Java, Spring Framework, javascript, react.js, angular, Casablanca, amdocs, bit, ML, Morocco',
-  siteUrl: 'https://github.com/',
+  siteUrl: 'https://belmallem.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-YG9YDE27Z2',
   googleVerification: '',

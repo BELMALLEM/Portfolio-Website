@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/BELMALLEM/Portfolio-Website/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/BELMALLEM/Portfolio-Website/code/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   <a href="https://belmallem.netlify.app/">Portfolio Website V1</a>
@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/BELMALLEM/Portfolio-Website/blob/code/src/images/demo.png" />
+  <img alt="Demo" src="https://raw.githubusercontent.com/BELMALLEM/Portfolio-Website/blob/code/src/images/demo.png" />
 </div>
 
 ### TL;DR

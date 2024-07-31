@@ -2,7 +2,7 @@
 date: '4'
 title: 'Ecommerce website'
 cover: 'ecommerce-website.png'
-github: '[Github Link](https://github.com/BELMALLEM/ecommerce-project)'
+github: 'https://github.com/BELMALLEM/ecommerce-project'
 external: ''
 tech:
   - Java

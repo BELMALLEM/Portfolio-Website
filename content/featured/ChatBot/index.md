@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'ChatBot that tells the News'
 cover: 'Bot.jpg'
 github: 'https://github.com/BELMALLEM/ChatBot'

@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Nine Mens Morris Game with AI'
 cover: 'Game_Home.PNG'
 github: 'https://github.com/BELMALLEM/Nine_Mens_Morris_AI'
